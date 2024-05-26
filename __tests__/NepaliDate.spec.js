@@ -1,4 +1,4 @@
-import NepaliDate from '../src/NepaliDate';
+import NepaliDate from '../cjs/NepaliDate';
 
 describe('NepaliDate', () => {
   it('checks for nepali date validity', () => {
