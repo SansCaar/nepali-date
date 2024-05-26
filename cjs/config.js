@@ -1,4 +1,4 @@
-exports.EPOCH = new Date(1943, 3, 14).getTime();
+exports.EPOCH = new Date(1970, 3, 14).getTime();
 exports.START_YEAR = 1970;
 // const MAX_DATE = new Date(2032, 4, 14);
 
